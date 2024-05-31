@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "LeetCode Difficulty Masker",
+    "version": "1.0",
+    "description": "Masks the difficulty tag on LeetCode to avoid bias.",
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://leetcode.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
