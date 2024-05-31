@@ -19,9 +19,9 @@ The extension employs a content script to identify and modify the text content o
 - **HTML**: Utilized in the extension's manifest file.
 
 ### Preview 
-![image]![image](https://github.com/rajanarahul93/LeetCode-Difficulty-Masker/assets/123227543/bdf5c00a-6abb-42c1-9d77-8e4cdf726b13)
-)
-![image](https://github.com/shrudex/mask-leetcode/assets/91502997/e57cbe4a-e3a9-4cc6-aeaa-fb5a6ff6f1e0)
+![image](https://github.com/rajanarahul93/LeetCode-Difficulty-Masker/assets/123227543/bdf5c00a-6abb-42c1-9d77-8e4cdf726b13)
+![image](https://github.com/rajanarahul93/LeetCode-Difficulty-Masker/assets/123227543/a9e78b66-4678-4154-a016-60911d7607f6)
+
 
 ## Installation
 
